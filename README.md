@@ -1,2 +1,7 @@
 # colored-markers
-Colored Markers | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## Colored Markers
+- Tutorial by freeCodeCamp
+
+## Tags
+html, css, front-end web development, tutorial
